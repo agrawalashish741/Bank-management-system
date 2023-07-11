@@ -1,1 +1,1 @@
-# Bank-management-system
+Here I have made the mini bank management system where i have tried to perform all the basic operations such as account opening,closing of account,mantaining balance etc. and tried to integrate it with the database such as SQL.
